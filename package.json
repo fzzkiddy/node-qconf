@@ -1,6 +1,6 @@
 {
   "name": "node-qconf",
-  "version": "0.4.2",
+  "version": "1.0.0",
   "description": "QConf Node.js",
   "main": "qconf.js",
   "dependencies": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bluedapp/node-qconf.git"
+    "url": "https://github.com/fzzkiddy/node-qconf.git"
   },
   "author": "mdemo",
   "keywords": [
@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bluedapp/node-qconf/issues"
+    "url": "https://github.com/fzzkiddy/node-qconf.git/issues"
   },
   "scripts": {},
   "gypfile": true
